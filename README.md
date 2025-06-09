@@ -2,7 +2,7 @@
 
 A collection of challenges designed to sharpen reflexes, logic, and problem-solving skills.
 
-These mini-activities offer ways to practice:
+These puzzles offer ways to practice:
 - Timing
 - Strategy
 - Coordination
